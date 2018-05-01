@@ -2027,7 +2027,7 @@ body {
   margin: 0 0 .5rem 0;
 }
 .cid-qQNFFUswv9 H3 {
-  text-align: left;
+  text-align: right;
 }
 .cid-qQNFFUswv9 DIV {
   text-align: center;
@@ -2110,6 +2110,8 @@ body {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
+  flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
 }
 .cid-qQNxoyauio .mbr-section-subtitle DIV {
   color: #ffffff;
