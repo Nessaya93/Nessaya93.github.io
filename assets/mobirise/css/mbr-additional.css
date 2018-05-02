@@ -1693,7 +1693,7 @@ body {
   text-align: center;
 }
 .cid-qQS8KUQBEk I {
-  color: #149dcc;
+  color: #094a87;
 }
 .cid-qQS8KUQBEk P {
   text-align: center;
@@ -1816,16 +1816,23 @@ body {
     width: 100% !important;
   }
 }
-.cid-qQNWTmQHrL {
+.cid-qQTwJ5DTkc {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qQNWTmQHrL .mbr-section-subtitle {
+.cid-qQTwJ5DTkc .mbr-section-subtitle {
   color: #149dcc;
 }
-.cid-qQNWTmQHrL B {
+.cid-qQTwJ5DTkc H2 {
+  color: #0f7699;
+  text-align: center;
+}
+.cid-qQTwJ5DTkc B {
   color: #149dcc;
+}
+.cid-qQTwJ5DTkc .mbr-section-subtitle DIV {
+  color: #ffffff;
 }
 .cid-qQNLPYPV2o {
   padding-top: 0px;
@@ -2423,7 +2430,7 @@ body {
 .cid-qQSIVvHeF2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/adobestock-187365672-1882x1273.png");
+  background-image: url("../../../assets/images/fotolia-41393782-xl-2000x1268.jpg");
 }
 .cid-qQSIVvHeF2 .title {
   margin-bottom: 2rem;
@@ -2455,7 +2462,7 @@ body {
 }
 .cid-qQSSBTXwiG {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #073b4c;
 }
 @media (max-width: 767px) {
